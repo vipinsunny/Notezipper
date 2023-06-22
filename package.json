@@ -1,0 +1,17 @@
+{
+  "name": "note-zipper-website",
+  "version": "1.0.0",
+  "description": "Notes adding webiste",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon backend/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vipin Kuriakose Sunny",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
